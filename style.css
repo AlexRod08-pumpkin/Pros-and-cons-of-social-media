@@ -1,5 +1,10 @@
 p[class="frist"] {
-    color: blue;
+ text-decoration: line-through;
+
+}
+
+p[class="second"] {
+    text-shadow: 4px 4px #ff0000;
 }
 
 body{
