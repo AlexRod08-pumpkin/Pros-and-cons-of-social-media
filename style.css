@@ -1,9 +1,9 @@
-p[class="first"]{
+.first {
  text-decoration: line-through;
 
 }
 
-p[class="second"] {
+.second {
     text-shadow: 4px 4px #ff0000;
 }
 
