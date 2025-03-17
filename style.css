@@ -2,6 +2,7 @@
 body{
     background-image: url("summer-lake.jpg");
     background-repeat: no-repeat;
+    Background-position: center;
     background-attachment: fixed;
     background-size: cover;
 }
